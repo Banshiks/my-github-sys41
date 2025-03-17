@@ -74,7 +74,8 @@
 
 <details>
 
-![image](https://github.com/user-attachments/assets/8563b6f4-eeb7-4d0e-ade1-3c506b52d420)
+![image](https://github.com/user-attachments/assets/4f599d65-1dc9-46eb-8a79-36e52294523c)
+
 ![image](https://github.com/user-attachments/assets/9b9ab299-0f63-4342-8a72-4923dbd1396a)
 
 
