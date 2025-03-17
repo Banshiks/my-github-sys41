@@ -178,7 +178,7 @@
 
 <details>
 
-![image](https://github.com/Ivashka80/Netology/assets/121082757/36115cdd-09a7-4793-a375-c94b79a4e016)
+![image](https://github.com/user-attachments/assets/5bcb2b14-8a66-4295-9ee4-71407ddb5058)
 
 </details>
 
@@ -186,17 +186,23 @@
 
 <details>
 
-![image](https://github.com/Ivashka80/Netology/assets/121082757/59357a94-a61d-4c50-8114-bf7861aef850)
+![image](https://github.com/user-attachments/assets/0d3a3b02-e6f7-4209-870c-6dd5962016b8)
 
-![image](https://github.com/Ivashka80/Netology/assets/121082757/4ff300ef-81e4-4e4f-8f96-60929639d13b)
+![image](https://github.com/user-attachments/assets/06a416a8-4ff5-4f3f-98a5-54a1e409e8a0)
+
+![image](https://github.com/user-attachments/assets/8d9c82b5-1f54-4ef4-bc77-5255dd037ebf)
 
 </details>
 
 3. Сделайте несколько коммитов и пушей, имитируя активную работу над этим файлом.
 
 <details>
+ 
+![image](https://github.com/user-attachments/assets/530e26e2-d29c-4e99-b0f0-24f87ce1fcdc)
 
-![image](https://github.com/Ivashka80/Netology/assets/121082757/ce9cd8de-648e-4bd1-8d8c-418364c593c6)
+![image](https://github.com/user-attachments/assets/f0fb11b3-c787-4cd0-b38d-e44cb632820c)
+
+![image](https://github.com/user-attachments/assets/7e79d238-65d9-4262-8dfa-db4c650e6fba)
 
 </details>
 
@@ -204,7 +210,10 @@
 
 <details>
 
-![image](https://github.com/Ivashka80/Netology/assets/121082757/1bde333c-b494-4348-a85e-95f4c1f91bb6)
+![image](https://github.com/user-attachments/assets/4c91d374-0012-4c85-af3f-df28414b54f3)
+
+
+![image](https://github.com/user-attachments/assets/81950430-beba-474e-bf1c-2de34c7ddff7)
 
 </details>
 
@@ -212,11 +221,10 @@
 
 <details>
 
-![image](https://github.com/Ivashka80/Netology/assets/121082757/13a41cd6-1b5d-4bfc-9dd6-42e688c2ca95)
+![image](https://github.com/user-attachments/assets/8e4a1b97-65d2-4742-a1e5-cc53b58944a8)
 
-![image](https://github.com/Ivashka80/Netology/assets/121082757/06f8c461-5a4f-4287-a317-fbf7efa9755b)
 
-![image](https://github.com/Ivashka80/Netology/assets/121082757/dac733c1-1d78-483c-b5db-576b0b32ca0d)
+![image](https://github.com/user-attachments/assets/ec9d4881-700f-45e3-84c0-b11ee902ebbf)
 
 </details>
 
