@@ -36,8 +36,8 @@
 
 <details>
 
-![image](https://github.com/Ivashka80/Netology/assets/121082757/376c245b-7253-4b3c-9083-ce58eba365dc)
- 
+ ![image](https://github.com/user-attachments/assets/11815802-7604-41aa-854a-efe4ab9acebc)
+
 </details>
 
 3. Склонируйте репозиторий, используя https протокол `git clone ...`.
@@ -46,7 +46,7 @@
 
 Клонирование сделано с помощью SSH-ключа
  
-![image](https://github.com/Ivashka80/Netology/assets/121082757/b618b981-624f-4eaf-8a25-7bf3d4171fc8)
+![image](https://github.com/user-attachments/assets/fdfd82f2-0e82-4936-91dd-d45e40a7d1b6)
 
 </details>
 
@@ -54,7 +54,7 @@
 
 <details>
 
-![image](https://github.com/Ivashka80/Netology/assets/121082757/77fe2889-d440-428c-8d7d-3b6fa703867e)
+![image](https://github.com/user-attachments/assets/3d86799c-9ba7-4b9a-911e-5cf5d896e0c0)
 
 </details>
 
@@ -70,7 +70,7 @@
 
 <details>
 
-![image](https://github.com/Ivashka80/Netology/assets/121082757/1b73580a-634a-4a5a-8808-05cf453a4295)
+![image](https://github.com/user-attachments/assets/be282099-8d17-4d6e-817b-c12ed5d31673)
 
 </details>
 
