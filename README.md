@@ -26,8 +26,7 @@
 
 1. Зарегистрируйте аккаунт на [GitHub](https://github.com/).
 
-![2025-03-17_16-52-15](https://github.com/user-attachments/assets/0088759d-5fa3-4609-99cb-0a7618f3c04e)
-
+<details>
 
 ![01](https://github.com/Ivashka80/Netology/assets/121082757/8b775232-df62-4189-8658-cd11bc208522)
 
