@@ -78,7 +78,7 @@
 
 <details>
 
-![image](https://github.com/Ivashka80/Netology/assets/121082757/f29c546f-12e0-4c32-ab3a-47854652a5ee)
+![image](https://github.com/user-attachments/assets/e317f207-00f7-4c3b-ab88-5f76a56b95ab)
 
 </details>
 
@@ -86,7 +86,7 @@
 
 <details>
 
-![image](https://github.com/Ivashka80/Netology/assets/121082757/f31d9fed-5050-45cc-8c6a-f7fcdb0ee551)
+![image](https://github.com/user-attachments/assets/640298a3-ee08-4271-938a-246dd2bb00e3)
 
 </details>
 
@@ -94,7 +94,9 @@
 
 <details>
 
-![image](https://github.com/Ivashka80/Netology/assets/121082757/8de874e5-8edf-4a01-8dba-c9cec25a7f02)
+![image](https://github.com/user-attachments/assets/8563b6f4-eeb7-4d0e-ade1-3c506b52d420)
+![image](https://github.com/user-attachments/assets/9b9ab299-0f63-4342-8a72-4923dbd1396a)
+
 
 </details>
 
@@ -102,7 +104,7 @@
 
 <details>
 
-![image](https://github.com/Ivashka80/Netology/assets/121082757/6d6f3ca5-2548-451e-9bea-8a17e4f966fe)
+![image](https://github.com/user-attachments/assets/aca3f4d5-abb9-420f-a7be-7d1244673777)
 
 </details>
 
@@ -110,7 +112,7 @@
 
 <details>
 
-![image](https://github.com/Ivashka80/Netology/assets/121082757/b7bcdddf-f3b6-49ed-8557-92e103b3ea62)
+![image](https://github.com/user-attachments/assets/3c14c51f-4aca-40ac-9e15-62df58121cf3)
 
 </details>
 
@@ -118,7 +120,8 @@
 
 <details>
 
-![image](https://github.com/Ivashka80/Netology/assets/121082757/7f51ae64-b481-4bdc-8b2f-78d872b5c7c3)
+![image](https://github.com/user-attachments/assets/ae62ae6f-0334-4840-a775-d262f2aeaaa9)
+![image](https://github.com/user-attachments/assets/1f7a3a56-4cb3-4063-9a2c-24685bef470f)
 
 </details>
 
@@ -126,11 +129,11 @@
 
 <details>
 
-![image](https://github.com/Ivashka80/Netology/assets/121082757/7ffc81ad-63e4-4af1-ac61-18a6356bbfe7)
+![image](https://github.com/user-attachments/assets/88b9a506-34eb-47cd-8ad8-4e452860e1ee)
 
-![image](https://github.com/Ivashka80/Netology/assets/121082757/0b215459-e81b-4d05-a0ef-bea0f337b4f4)
+![image](https://github.com/user-attachments/assets/6dfd8775-5b2d-4e9b-8b1d-c188ce683246)
 
-![image](https://github.com/Ivashka80/Netology/assets/121082757/e1bce582-66ae-434a-92d0-87bee1b365f3)
+![image](https://github.com/user-attachments/assets/941a0035-8eaf-4f0a-a6fe-34474bdcd30d)
 
 </details>
 
