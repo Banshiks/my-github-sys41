@@ -28,7 +28,7 @@
 
 <details>
 
-![01](https://github.com/Ivashka80/Netology/assets/121082757/8b775232-df62-4189-8658-cd11bc208522)
+![01](https://github.com/user-attachments/assets/5c4097a7-bfb9-464d-b6ce-76690767548f)
 
 </details>
 
