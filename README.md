@@ -131,15 +131,15 @@
 
 <details>
 
-![image](https://github.com/Ivashka80/Netology/assets/121082757/83bd9228-2edb-4625-9718-e14f5ed5ffbc)
+![image](https://github.com/user-attachments/assets/789b15b3-7c37-491a-bd22-fcc6cd21e8f8)
 
 </details>
 
 2. Добавьте файл .gitignore в следующий коммит `git add...`.
 
 <details>
-
-![image](https://github.com/Ivashka80/Netology/assets/121082757/406041e7-086c-4c81-9feb-9e7f191b4e77)
+ 
+![image](https://github.com/user-attachments/assets/d5539c9c-78f1-411a-9b84-6256bfb083bf)
 
 </details>
 
@@ -147,7 +147,7 @@
 
 <details>
 
-![image](https://github.com/Ivashka80/Netology/assets/121082757/517da4e6-9a7b-4624-a93d-4ada559e150f)
+![image](https://github.com/user-attachments/assets/4851264c-85e2-47dc-be56-7395c7f5082b)
 
 </details>
 
@@ -156,9 +156,11 @@
 
 <details>
 
-![image](https://github.com/Ivashka80/Netology/assets/121082757/f9f575fb-5ed8-43a7-9ecd-ac11819f5626)
+![image](https://github.com/user-attachments/assets/22a03a1d-8854-4be4-8e2e-a8b5e37d05c5)
 
-![image](https://github.com/Ivashka80/Netology/assets/121082757/5cb012d4-1f49-41aa-9af2-7ca8586d3c43)
+![image](https://github.com/user-attachments/assets/f6de1701-aeb9-4cc4-8b35-ed80e9383496)
+
+![image](https://github.com/user-attachments/assets/89bc81c8-4c6b-424b-92a7-8d9eec10b0b6)
 
 </details>
 
