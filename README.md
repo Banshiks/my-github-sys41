@@ -229,13 +229,3 @@
 ![image](https://github.com/user-attachments/assets/3993e0c4-85bc-4ac8-bbb9-9e44b7b4c7d9)
 
 </details>
-
-В качестве ответа прикрепите ссылку на граф коммитов https://github.com/ваш-логин/ваш-репозиторий/network в ваш md-файл с решением.
-
-### [Ссылка](https://github.com/Ivashka80/my-first-github/network) на граф.
-
-
----
-
-<details>
-
