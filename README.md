@@ -93,7 +93,7 @@
 
 <details>
 
-![image](https://github.com/user-attachments/assets/3c14c51f-4aca-40ac-9e15-62df58121cf3)
+![image](https://github.com/user-attachments/assets/0bf160cd-b395-47b9-861b-ef30e96cee8d)
 
 </details>
 
