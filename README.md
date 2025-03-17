@@ -42,7 +42,8 @@
 
 <details>
 
-![image](https://github.com/Ivashka80/Netology/assets/121082757/ab309d1d-7d31-4405-b61a-5c9906b62d87)
+![image](https://github.com/user-attachments/assets/90e36c29-a365-492f-8abd-d10b73f8f320)
+
 
 </details>
 
